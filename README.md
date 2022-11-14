@@ -1,4 +1,4 @@
-This is MATLAB implementation of paper "Multi-tubal rank of third order tensor and related low rank tensor completion problem".
+This is MATLAB implementation of paper "Tensor Factorization Based Method for Tensor Completion with Spatio-Temporal Characterization".
 
 If you have questions about the code, please email: quanyu@tju.edu.cn
 
